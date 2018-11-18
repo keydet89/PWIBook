@@ -1,0 +1,13 @@
+
+Description of Security Events for Windows 7/Windows 2008 R2
+https://support.microsoft.com/en-us/help/977519/description-of-security-events-in-windows-7-and-in-windows-server-2008
+
+All Possible Security Event Logs
+https://blogs.technet.microsoft.com/kevinholman/2011/08/05/a-list-of-all-possible-security-events-in-the-windows-security-event-log/
+
+Windows Events to Monitor (from MS)
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor
+
+
+BITS Event IDs
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc734695(v%3dws.10)
